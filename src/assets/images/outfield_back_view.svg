@@ -91,11 +91,11 @@
 </g>
 <g id="of_x5F_vw3_x5F_stch">
 	<g>
-		<path fill="none" stroke="#DFFF24" stroke-miterlimit="10" stroke-dasharray="3,1.5" d="M121,253.5c0,0,13.9-22.8,69.4-20.6
+		<path fill="none"  stroke-miterlimit="10" stroke-dasharray="3,1.5" d="M121,253.5c0,0,13.9-22.8,69.4-20.6
 			s51.3,5.1,62.2,10.2"/>
-		<path fill="none" stroke="#DFFF24" stroke-miterlimit="10" stroke-dasharray="3,1.5" d="M238.9,236c-1.5-11.8,3-27.9,3-27.9
+		<path fill="none"  stroke-miterlimit="10" stroke-dasharray="3,1.5" d="M238.9,236c-1.5-11.8,3-27.9,3-27.9
 			s4.9-18.6,7.2-22.6s3.6-13,3.6-13c1.3,58.5,10.9,75.1,21.8,59.3l-1.5,12.8c0,0-3,11.3-12,19.6"/>
-		<path fill="none" stroke="#DFFF24" stroke-miterlimit="10" stroke-dasharray="3,1.5" d="M240.3,234.5c-3-5.7,11.1-49.8,11.1-49.8
+		<path fill="none"  stroke-miterlimit="10" stroke-dasharray="3,1.5" d="M240.3,234.5c-3-5.7,11.1-49.8,11.1-49.8
 			c-1.9,32.4,8.8,65.5,20.1,52.9c0,0,4,12.4-9.5,23.1"/>
 	</g>
 </g>
@@ -163,7 +163,7 @@
 </g>
 <g id="of_x5F_open_x5F_back">
 	
-		<image overflow="visible" enable-background="new" width="676" height="930" xlink:href="./9P_outfield_back_view.png"  transform="matrix(0.3763 0 0 0.3763 60.2957 1)">
+		<image overflow="visible" enable-background="new" width="676" height="930" xlink:href="assets/images/9P_outfield_back_view.png"  transform="matrix(0.3763 0 0 0.3763 60.2957 1)">
 	</image>
 </g>
 </svg>
